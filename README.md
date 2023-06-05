@@ -46,7 +46,7 @@ Step 6
 Give the respective inputs for timing diagram and get the results.
 ## PROGRAM
 ```
-module muxx(a,s,y);
+module simupro(a,s,y);
 input[7:0]a;
 input[2:0]s;
 output reg y;
